@@ -6,7 +6,7 @@ Git pull
   - git clone https://github.com/GMUjk164/vsc-start-routine.git ( code aus repos)
   - in neuen ordner mit cd + TAB
   - code in cmd eingeben
-
+  - .gitignore (/.vscode)
 ************************************************
 Git push ( bei Error, ob du im richtigen Ordner bist!)
 ************************************************
