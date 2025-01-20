@@ -1,6 +1,7 @@
 ************************************************
 Git pull
 ************************************************
+  - repository erstellen, orivat , ohne readme, dann kommt clone guide
   - cmd öffnen und in ordner mit cd + Tab oder Cd ..
   - git clone https://github.com/GMUjk164/vsc-start-routine.git ( code aus repos)
   - in neuen ordner mit cd + TAB
