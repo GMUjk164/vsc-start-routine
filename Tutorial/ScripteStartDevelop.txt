@@ -1,0 +1,8 @@
+# in package.jason
+"scripts": {
+  "develop:backend": "npm run --prefix backend develop",
+  "develop:frontend": "wait-on http://localhost:1337/admin && npm run --prefix frontend develop",
+  "develop": "cross-env Force_COLOR=1 npm-run-all -l -p develop:*""
+}
+
+# Starten mit npm run develop

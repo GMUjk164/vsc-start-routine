@@ -2,11 +2,16 @@
 Git pull
 ************************************************
   - repository erstellen, orivat , ohne readme, dann kommt clone guide
+  - gitignore "node"
   - cmd öffnen und in ordner mit cd + Tab oder Cd ..
   - git clone https://github.com/GMUjk164/vsc-start-routine.git ( code aus repos)
   - in neuen ordner mit cd + TAB
-  - code in cmd eingeben
+  - "code ." in cmd eingeben
   - .gitignore (/.vscode)
+************************************************
+git rm -r --cached .vscode (z.b. .VSCode)
+git commit -m 'Remove the now ignored directory '.vscode'
+git push origin main
 ************************************************
 Git push ( bei Error, ob du im richtigen Ordner bist!)
 ************************************************

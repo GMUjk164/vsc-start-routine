@@ -1,0 +1,24 @@
+Nuxt installieren
+    npx create-nuxt-app frontend
+      select:
+        -project name frontend
+        -Javascript
+        -npm
+        -vuetify.js 
+        -axios - promise based http client
+        -eslint und prettier
+        -testing none
+        -Rendering mode: SinglePage app
+        -Deployment target: server bode.js hosting
+        -Dev tools: jsconfig.json 
+        -Continious integration: none
+        -Version control sys: none
+        - b
+
+
+
+Nuxt frontend script anpassen
+    Änderung von:
+    "dev": "nuxt",
+    zu:
+    "develop": "nuxt",
